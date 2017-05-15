@@ -7,7 +7,7 @@
  */
 
 ?>
-
+<h1>Post hier de data:</h1>
 <form action="LegitSites.php" method="get">
     <textarea name="format" style="width: 100%; height: 500px;"></textarea>
 
